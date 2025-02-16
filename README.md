@@ -1,4 +1,13 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Muhammad Afrizal "Zale" 
+
+🚀 **About Me:**  
+- 🔭 I’m currently Studying on UIN Sunan Kalijaga Yogyakarta  
+- 🌱 I’m currently learning at Coding Camp Powered by DBS Foundation    
+- 📫 How to reach me: zallengrad66@gmail.com / 	<ins> https://www.instagram.com/zallengrad/ </ins>
+
+🔗 **Find me on:**  
+⚡LinkedIn : https://www.linkedin.com/in/afrizal-muhammad-b78342246/
 
 <!--
 **zallengrad/zallengrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
